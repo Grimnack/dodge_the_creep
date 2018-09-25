@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/gameover.wav-afaf25487736b891e2d3e1feb9176427.sample"
+
+[deps]
+
+source_file="res://dodge_the_creep/art/gameover.wav"
+dest_files=[ "res://.import/gameover.wav-afaf25487736b891e2d3e1feb9176427.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
